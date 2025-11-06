@@ -10,7 +10,7 @@ internal class Program
         Console.WriteLine("* Спринт #4                                                               *");
         Console.WriteLine("* Тема: Одномерные массивы                                                *");
         Console.WriteLine("* Задание #0                                                              *");
-        Console.WriteLine("* Вариант #28                                                             *");
+        Console.WriteLine("* Вариант #28                                                              *");
         Console.WriteLine("* Выполнила: Корякина Алина Эльдаяговна |  ИСТНб-25-1                     *");
         Console.WriteLine("***************************************************************************");
         Console.WriteLine("* УСЛОВИЕ:                                                                *");
