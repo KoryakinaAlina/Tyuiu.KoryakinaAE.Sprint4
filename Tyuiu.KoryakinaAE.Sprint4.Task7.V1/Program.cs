@@ -21,6 +21,23 @@ internal class Program
         Console.WriteLine("***************************************************************************");
         string str = "135792468";
         Console.WriteLine("Исходная строка: " + str);
+        int n = 3;
+        int m = 3;
+        int[,] mtrx = new int[n, m];
+
+        int index = 0;
+        Console.WriteLine("\n Массив:");
+        for (int i = 0; i < n; i++)
+        {
+            for (int j = 0; j < m; j++)
+            {
+                Console.Write($"{str[index]} \t");
+                index++;
+            }
+            Console.WriteLine();
+        }
+        Console.WriteLine();
+
 
         Console.WriteLine("***************************************************************************");
         Console.WriteLine("* РЕЗУЛЬТАТ:                                                              *");
